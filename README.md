@@ -1,6 +1,9 @@
 # Web-Calculator
 I developed this simple web calculator with HTML, CSS and Javascript.
 
+# Live Demo:
+https://rahulsuthar08.github.io/Web-Calculator/
+
 ## Tech Used: 
 - HTML
 - CSS
